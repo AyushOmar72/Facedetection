@@ -1,1 +1,2 @@
-# Facedetection
+FACE DETECTION-:
+Face detection is used in security cameras to detect people who enter restricted spaces or to count how many people have entered an area. Face detection, also called facial detection is an artificial intelligence (AI)-based computer technology used to find and identify human faces in digital images and video Face detection technology is often used for surveillance and tracking of people in real time It is used in various fields including security, biometric, law enforcement, entertainment and social media..
